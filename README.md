@@ -1,25 +1,33 @@
-# Experience
+# My Learning Experience
 Core:recording every learning process and build it all the time.
 
-这个是现阶段的仓库目录，持续更新中.....
-|专栏                                  |专栏                                    |专栏                                  |
-|-------------------------------------|---------------------------------------|--------------------------------------|
-|[算法](#Algorithms)                   |[操作系统](#Operating-systems)          |[CS188](#Intro-to-Artificial-Intelligence)
-|[Hello Agent](#Agent)
+## Contents
 
+### 1.Daily Learning
+Daily records of what I have learned,
+including concepts, questions and reflections
 
+### 2.Computer Science
+- Operating Systems
+- Algorithms
+- Data Structures
+- Computer Networks
+- Database Systems
+- Artificial Intelligence
 
+### 4. Projects
+A collection of programming projects
+and practical experiments.
+
+## Goals
+- Build strong programming fundamentals.
+- Develop problem-solving skills.
+- Understand core computer science concepts.
+- Record continuous learning progress.
 
 ---
 
-# Map
-<a id="cs188"></a>
-
-### CS188
-
-
-
-
+Learning never stops.
 
 
 
