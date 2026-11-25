@@ -39,7 +39,7 @@ public class SequentialSearchSTTrace{
             String[] keys = {"E","A","S","Y","Q","U","E","S","T","I","O","N"};
             System.out.println("Insertion trace for SequentialSearchST:");
             System.out.println("----------------------------------------");
-            for (String k : keys) {
+            for (String k : keys) {//从 keys 数组中依次取出一个 String 类型的元素，并将它暂时存放在变量 k 中
                 st.put(k,1);
                 System.out.print("After inserting " + k + ": ");
                 st.printList();
